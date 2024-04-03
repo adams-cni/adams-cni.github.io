@@ -1,0 +1,19 @@
+#header{
+    font-size: 2em;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    right:20%;
+}
+a {
+  color: darkorange;
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}
+a:visited{
+    color:darkorange;
+}
+a:hover{
+    color:dodgerblue
+}
